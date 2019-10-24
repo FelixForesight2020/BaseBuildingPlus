@@ -4,7 +4,9 @@
 <p>This is a BETA release for those of you who just can't wait any longer! Expect bugs, bugs, oh and bugs and please be patient while we try to fix all the issues the we assume might arise...</p>
 <p>We don't recommend you put this on your main server, maybe if you have a second or a test server and have people who are willing test this mod and help us get it a state of a stable release, that'd be ideal!</p>
 <p>Very important, what we currently have has only been tested with two people playing together, trying to find the bugs, gameplay loop etc, so nothing is set in stone. If something is too easy or hard to craft, rai, etc, please let us know. We don't plan on adding anything else until this current beta build is about as good as we can make it.</p>
-<p>**Note: Make sure to have the EXACT amount of needed items for build. Not over the number. Strong side of wall is facing player in the "shadow" for placing, meaning, not like the vanilla fence kits.**</p>
+<ul>
+<li>Note: Make sure to have the EXACT amount of needed items for build. Not over the number. Strong side of wall is facing player in the "shadow" for placing, meaning, not like the vanilla fence kits.</li>
+</ul>
 <h2><a id="user-content-current-features-include" class="anchor" aria-hidden="true" href="#current-features-include"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Current features include:</h2>
 <ul>
 <li>Doors with the ability to put custom code locks on</li>
