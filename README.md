@@ -36,13 +36,13 @@ Destruction time = 12 Minutes</p>
 <p>Metal
 Constructed using metal sheets for better defense.
 Destruction time = 20 Minutes</p>
-<h3>>Tier 4:</h3>
+<h3>Tier 4:</h3>
 <p>Concrete
 The highest tier and most difficult to craft. Players will need to locate the static cement mixers around the map. The mixers need a generator connected and 2 bags of cement to create the concrete bricks needed to craft these parts.
 Destruction time = 40 Minutes, can only use a sledgehammer</p>
 <p>Obv, these times are subject to change!
 No plans for C4 right now...</p>
-<h2>>Wiki</h2>
+<h2>Wiki</h2>
 <p>Check out the wiki for more information:
 <a href="https://github.com/FelixForesight2020/BaseBuildingPlus/wiki">https://github.com/FelixForesight2020/BaseBuildingPlus/wiki</a></p>
 <h2>Official Test Server</h2>
@@ -52,8 +52,3 @@ N/A</p>
 <h2>The BaseBuildingPlus Discord</h2>
 <p><a href="https://discord.gg/HEmV88c" rel="nofollow">https://discord.gg/HEmV88c</a></p>
 </article>
-      </div>
-  </div>
-
-
-
