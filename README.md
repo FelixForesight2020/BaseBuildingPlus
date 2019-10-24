@@ -6,6 +6,7 @@
 <ul>
 <li>Note: Make sure to have the EXACT amount of needed items for build. Not over the number. Strong side of wall is facing player in the "shadow" for placing, meaning, not like the vanilla fence kits.</li>
 </ul>
+<h2>Current features include:</h2>
 <ul>
 <li>Doors with the ability to put custom code locks on</li>
 <li>Toggleable basebuilding snapping</li>
