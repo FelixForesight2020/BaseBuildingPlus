@@ -22,7 +22,6 @@ Secure Storage Vault. This takes some serious building, but is fully secure.</p>
 <h2>Basic farming system (currently just chickens)</h2>
 <p>-Keep your chickens fed, feed them with 10 seeds in your hand, and they will happily produce eggs for you at random times!
 -Eat their eggs or walk up to a chicken coop with an egg in your hand and you will be prompted to place the egg inside the coop, after about 20-30 minutes you will have a new chicken as part of your farm.</p>
-<p>We will soon have a config that will let server owners disable base destruction from the outside, just like Cleetus's "disablebasedestruction". But for beta reasons we want to test the mod in this state.</p>
 <h2>Building Tiers</h2>
 <h3>Tier 1:</h3>
 <p>Simple Wood
