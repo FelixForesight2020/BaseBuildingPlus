@@ -46,8 +46,8 @@ No plans for C4 right now...</p>
 <a href="https://github.com/FelixForesight2020/BaseBuildingPlus/wiki">https://github.com/FelixForesight2020/BaseBuildingPlus/wiki</a></p>
 <h2>Official Test Server</h2>
 <p>Server name:<br>
-Official BBP Server<br>
-<h2> Server IP:</h2><br>
+Official BBP Server</p>
+<p>Server IP:<br>
 192.169.81.51:2302</p>
 <h2>The BaseBuildingPlus Discord</h2>
 <p><a href="https://discord.gg/HEmV88c" rel="nofollow">https://discord.gg/HEmV88c</a></p>
