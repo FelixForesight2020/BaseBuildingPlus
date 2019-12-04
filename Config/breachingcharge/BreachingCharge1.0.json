@@ -1,0 +1,308 @@
+{
+    "m_onlyGates": 0,
+    "m_chargeTypes": [
+        {
+            "m_Name": "HDSN_BreachingCharge",
+            "m_Damage": 1,
+            "m_TimeToPlant": 30,
+            "m_TimeToExplode": 180,
+            "m_TimeToDefuse": 20,
+            "m_DefaultBrightness": 0.5,
+            "m_DefaultRadius": 10,
+            "m_ColorStart": [
+                0,
+                1,
+                0
+            ],
+            "m_ColorHalfway": [
+                1,
+                1,
+                0
+            ],
+            "m_ColorEnd": [
+                1,
+                0,
+                0
+            ],
+            "m_SoundSet": "HDSN_BC_SoundSet",
+            "m_SwitchInterval": 1
+        },
+        {
+            "m_Name": "HDSN_BreachingChargeHeavy",
+            "m_Damage": 1,
+            "m_TimeToPlant": 30,
+            "m_TimeToExplode": 180,
+            "m_TimeToDefuse": 20,
+            "m_DefaultBrightness": 0.5,
+            "m_DefaultRadius": 10,
+            "m_ColorStart": [
+                0,
+                1,
+                0
+            ],
+            "m_ColorHalfway": [
+                1,
+                1,
+                0
+            ],
+            "m_ColorEnd": [
+                1,
+                0,
+                0
+            ],
+            "m_SoundSet": "HDSN_BC_SoundSet",
+            "m_SwitchInterval": 1
+        }
+    ],
+    "m_DestroyableObjects": [
+        {
+            "m_Name": "Fence",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "FenceHalfMetal",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "FenceMetal",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T1_Wall",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T2_Wall",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T3_Wall",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": []
+        },
+        {
+            "m_Name": "BBP_T1_Wall_Half",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T2_Wall_Half",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T3_Wall_Half",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": []
+        },
+        {
+            "m_Name": "BBP_T1_Window",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T2_Window",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T3_Window",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": []
+        },
+        {
+            "m_Name": "BBP_T1_Door",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T2_Door",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T3_Door",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": []
+        },
+        {
+            "m_Name": "BBP_T1_Gate",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T2_Gate",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T3_Gate",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": []
+        },
+        {
+            "m_Name": "BBP_T1_Roof",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T2_Roof",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T3_Roof",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": []
+        },
+        {
+            "m_Name": "BBP_T1_Floor",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T2_Floor",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T3_Floor",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": []
+        },
+        {
+            "m_Name": "BBP_T2_Floor_Hatch",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T2_Floor_Hatch",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T3_Floor_Hatch",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": []
+        },
+        {
+            "m_Name": "BBP_T1_Stair",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T2_Stair",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T3_Stair",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": []
+        },
+        {
+            "m_Name": "BBP_T1_Ramp",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T2_Ramp",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T3_Ramp",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": []
+        },
+        {
+            "m_Name": "BBP_T1_Ramp_Wide",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T2_Ramp_Wide",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": [
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "m_Name": "BBP_T3_Ramp_Wide",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": []
+        },
+        {
+            "m_Name": "BBP_Underground_Bunker",
+            "m_Health": -1,
+            "m_acceptedChargeTypes": []
+        },
+    ]
+}
