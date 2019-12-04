@@ -899,7 +899,7 @@
         <category name="tools"/>
         <usage name="Industrial"/>
     </type>
-	    <type name="BBP_Golf">
+    	<type name="BBP_Golf">
         <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
