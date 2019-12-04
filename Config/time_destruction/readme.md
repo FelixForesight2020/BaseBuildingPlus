@@ -1,4 +1,4 @@
-## Drop this file into your servers profile folder.
+## Drop the Config_TimeDestruction.json file into your servers profile folder.
 
 ### This .json file is easily customizable allowing you to edit what tools can raid and how long these tools take to break into BBP objects. 
 ### All the vaules are in seconds.
