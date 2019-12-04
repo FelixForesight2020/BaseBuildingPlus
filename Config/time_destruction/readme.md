@@ -8,5 +8,5 @@
 ### T2 Takes 20 minutes to raid
 ### T3 Takes 40 minutes to raid
 
-### Rememeber.. you can easily change all these vaules to what your server needs.
+### Rememeber.. you can easily change all these vaules to your liking.
 ### Join the [Discord Server](https://discord.gg/GFeTV7H) if you need any help!
