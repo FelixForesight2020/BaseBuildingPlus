@@ -816,7 +816,7 @@
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="BBP_MagnetBox">
-		<nominal>20</nominal>
+	<nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -887,7 +887,7 @@
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	    <type name="BBP_Mortar_Mix">
+	<type name="BBP_Mortar_Mix">
         <nominal>30</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
