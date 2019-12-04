@@ -1,4 +1,4 @@
-<!-- BaseBuildingPlus -->
+    <!-- BaseBuildingPlus -->
     <type name="BBP_T1_WallKit">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
@@ -47,7 +47,7 @@
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_T1_GateKit">
+    <type name="BBP_T1_GateKit">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
@@ -83,15 +83,15 @@
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_T1_Floor_HatchKit">
+    <type name="BBP_T1_Floor_HatchKit">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_T2_Floor_HatchKit">
+    <type name="BBP_T2_Floor_HatchKit">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_T3_Floor_HatchKit">
+    <type name="BBP_T3_Floor_HatchKit">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
@@ -99,11 +99,11 @@
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_T1_RampKit">
+    <type name="BBP_T1_RampKit">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_T1_Ramp_WideKit">
+    <type name="BBP_T1_Ramp_WideKit">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
@@ -155,7 +155,7 @@
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_T1_Gate">
+    <type name="BBP_T1_Gate">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
@@ -191,15 +191,15 @@
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_T1_Floor_Hatch">
+    <type name="BBP_T1_Floor_Hatch">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_T2_Floor_Hatch">
+    <type name="BBP_T2_Floor_Hatch">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_T3_Floor_Hatch">
+    <type name="BBP_T3_Floor_Hatch">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
@@ -207,23 +207,23 @@
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_T1_Ramp">
+    <type name="BBP_T1_Ramp">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_T1_Ramp_Wide">
+    <type name="BBP_T1_Ramp_Wide">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Ladder">
+    <type name="BBP_Ladder">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Underground_BunkerKit">
+    <type name="BBP_Underground_BunkerKit">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Underground_Bunker">
+    <type name="BBP_Underground_Bunker">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
@@ -247,7 +247,7 @@
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Tape_Measure">
+    <type name="BBP_Tape_Measure">
         <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -257,10 +257,10 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<tag name="floor"/>
+        <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
-	<type name="BBP_Blueprint">
+    <type name="BBP_Blueprint">
         <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -276,7 +276,7 @@
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Xmas_Tree">
+    <type name="BBP_Xmas_Tree">
         <nominal>10</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -286,68 +286,68 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<tag name="floor"/>
-		<usage name="Farm"/>
+        <tag name="floor"/>
+        <usage name="Farm"/>
         <usage name="Industrial"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
-		<usage name="Office"/>
+        <usage name="Office"/>
         <usage name="School"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
         <usage name="Police"/>
-		<usage name="Medic"/>
+        <usage name="Medic"/>
     </type>
-	<type name="BBP_Sun_Shade">
-        <lifetime>3888000</lifetime>
-        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
-	<type name="BBP_Painting_1">
-        <nominal>10</nominal>
-        <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-		<tag name="floor"/>
-		<usage name="Farm"/>
-        <usage name="Industrial"/>
-		<usage name="Town"/>
-        <usage name="Village"/>
-		<usage name="Office"/>
-        <usage name="School"/>
-		<usage name="Military"/>
-        <usage name="Police"/>
-		<usage name="Medic"/>
-    </type>
-	<type name="BBP_Painting_2">
-        <nominal>10</nominal>
-        <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>5</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-		<tag name="floor"/>
-		<usage name="Farm"/>
-        <usage name="Industrial"/>
-		<usage name="Town"/>
-        <usage name="Village"/>
-		<usage name="Office"/>
-        <usage name="School"/>
-		<usage name="Military"/>
-        <usage name="Police"/>
-		<usage name="Medic"/>
-    </type>
-	<type name="BBP_Wood_Storage">
+    <type name="BBP_Sun_Shade">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Letter_Large_A">
+    <type name="BBP_Painting_1">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Farm"/>
+        <usage name="Industrial"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+    </type>
+    <type name="BBP_Painting_2">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Farm"/>
+        <usage name="Industrial"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+    </type>
+    <type name="BBP_Wood_Storage">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="BBP_Letter_Large_A">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -361,7 +361,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_B">
+    <type name="BBP_Letter_Large_B">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -375,7 +375,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_C">
+    <type name="BBP_Letter_Large_C">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -389,7 +389,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_D">
+    <type name="BBP_Letter_Large_D">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -403,7 +403,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_E">
+    <type name="BBP_Letter_Large_E">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -417,7 +417,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_F">
+    <type name="BBP_Letter_Large_F">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -431,7 +431,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_G">
+    <type name="BBP_Letter_Large_G">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -445,7 +445,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_H">
+    <type name="BBP_Letter_Large_H">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -459,7 +459,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_I">
+    <type name="BBP_Letter_Large_I">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -473,7 +473,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_J">
+    <type name="BBP_Letter_Large_J">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -487,7 +487,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_K">
+    <type name="BBP_Letter_Large_K">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -501,7 +501,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_L">
+    <type name="BBP_Letter_Large_L">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -515,7 +515,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_M">
+    <type name="BBP_Letter_Large_M">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -529,7 +529,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_N">
+    <type name="BBP_Letter_Large_N">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -543,7 +543,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_O">
+    <type name="BBP_Letter_Large_O">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -557,7 +557,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_P">
+    <type name="BBP_Letter_Large_P">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -571,7 +571,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_Q">
+    <type name="BBP_Letter_Large_Q">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -585,7 +585,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_R">
+    <type name="BBP_Letter_Large_R">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -599,7 +599,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_S">
+    <type name="BBP_Letter_Large_S">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -613,7 +613,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_T">
+    <type name="BBP_Letter_Large_T">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -627,7 +627,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_U">
+    <type name="BBP_Letter_Large_U">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -641,7 +641,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_V">
+    <type name="BBP_Letter_Large_V">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -655,7 +655,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_W">
+    <type name="BBP_Letter_Large_W">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -669,7 +669,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_X">
+    <type name="BBP_Letter_Large_X">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -683,7 +683,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_Y">
+    <type name="BBP_Letter_Large_Y">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -697,7 +697,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Letter_Large_Z">
+    <type name="BBP_Letter_Large_Z">
         <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -711,112 +711,112 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
-	<type name="BBP_Magnet_A">
+    <type name="BBP_Magnet_A">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_B">
+    <type name="BBP_Magnet_B">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_C">
+    <type name="BBP_Magnet_C">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_D">
+    <type name="BBP_Magnet_D">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_E">
+    <type name="BBP_Magnet_E">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_F">
+    <type name="BBP_Magnet_F">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_G">
+    <type name="BBP_Magnet_G">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_H">
+    <type name="BBP_Magnet_H">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_I">
+    <type name="BBP_Magnet_I">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_J">
+    <type name="BBP_Magnet_J">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_K">
+    <type name="BBP_Magnet_K">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_L">
+    <type name="BBP_Magnet_L">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_M">
+    <type name="BBP_Magnet_M">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_N">
+    <type name="BBP_Magnet_N">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_O">
+    <type name="BBP_Magnet_O">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_P">
+    <type name="BBP_Magnet_P">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_Q">
+    <type name="BBP_Magnet_Q">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_R">
+    <type name="BBP_Magnet_R">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_S">
+    <type name="BBP_Magnet_S">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_T">
+    <type name="BBP_Magnet_T">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_U">
+    <type name="BBP_Magnet_U">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_V">
+    <type name="BBP_Magnet_V">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_W">
+    <type name="BBP_Magnet_W">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_X">
+    <type name="BBP_Magnet_X">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_Y">
+    <type name="BBP_Magnet_Y">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Magnet_Z">
+    <type name="BBP_Magnet_Z">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_MagnetBox">
-	<nominal>20</nominal>
+    <type name="BBP_MagnetBox">
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -829,7 +829,7 @@
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
-	<type name="BBP_Old_Lamp">
+    <type name="BBP_Old_Lamp">
         <nominal>20</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -840,17 +840,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-		<usage name="Farm"/>
+        <usage name="Farm"/>
         <usage name="Industrial"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
-		<usage name="Office"/>
+        <usage name="Office"/>
         <usage name="School"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
         <usage name="Police"/>
-		<usage name="Medic"/>
+        <usage name="Medic"/>
     </type>
-	<type name="BBP_Floor_Lamp">
+    <type name="BBP_Floor_Lamp">
         <nominal>20</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
@@ -860,34 +860,34 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<tag name="floor"/>
+        <tag name="floor"/>
         <usage name="Farm"/>
         <usage name="Industrial"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
-		<usage name="Office"/>
+        <usage name="Office"/>
         <usage name="School"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
         <usage name="Police"/>
-		<usage name="Medic"/>
+        <usage name="Medic"/>
     </type>
-	<type name="BBP_Land_Claim_FlagKit">
+    <type name="BBP_Land_Claim_FlagKit">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Land_Claim_Pole">
+    <type name="BBP_Land_Claim_Pole">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Land_Claim_Flag">
+    <type name="BBP_Land_Claim_Flag">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Admin_Land_Claim_Flag">
+    <type name="BBP_Admin_Land_Claim_Flag">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Mortar_Mix">
+    <type name="BBP_Mortar_Mix">
         <nominal>30</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
@@ -899,7 +899,7 @@
         <category name="tools"/>
         <usage name="Industrial"/>
     </type>
-    	<type name="BBP_Golf">
+    <type name="BBP_Golf">
         <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -913,11 +913,11 @@
         <usage name="Farm"/>
         <usage name="Village"/>
     </type>
-	<type name="BBP_Solar_PanelKit">
+    <type name="BBP_Solar_PanelKit">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="BBP_Solar">
+    <type name="BBP_Solar">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
