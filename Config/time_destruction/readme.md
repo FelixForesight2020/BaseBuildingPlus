@@ -4,9 +4,9 @@
 ### All the vaules are in seconds.
 
 ## This configs raid time is set up as so
-### T1 Takes 8 minutes to raid into
-### T2 Takes 20 minutes to raid into
-### T3 Takes 40 minutes to raid into
+### T1 Takes 8 minutes to raid
+### T2 Takes 20 minutes to raid
+### T3 Takes 40 minutes to raid
 
 ### Rememeber.. you can easily change all these vaules to what your server needs.
 ### Join the [Discord Server](https://discord.gg/GFeTV7H) if you need any help!
