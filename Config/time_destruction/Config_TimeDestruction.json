@@ -8,104 +8,104 @@
                     {
                         "TypeItem": "Hatchet",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "FirefighterAxe",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "FirefighterAxe_Black",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "FirefighterAxe_Green",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "Hacksaw",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "HandSaw",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "Chainsaw",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "Crowbar",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "SledgeHammer",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "Iceaxe",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "Pickaxe",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "WoodAxe",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     }
                 ],
                 "AllItemsCFGDefault": {
-                    "TimeDestructionOutside": 300,
+                    "TimeDestructionOutside": 60,
                     "TimeDestructionInside": 10,
-                    "TimeDestructionCodeLock": 300
+                    "TimeDestructionCodeLock": 60
                 }
             }
         },
@@ -980,104 +980,104 @@
                     {
                         "TypeItem": "Hatchet",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "FirefighterAxe",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "FirefighterAxe_Black",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "FirefighterAxe_Green",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "Hacksaw",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "HandSaw",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "Chainsaw",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "Crowbar",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "SledgeHammer",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "Iceaxe",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "Pickaxe",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "WoodAxe",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     }
                 ],
                 "AllItemsCFGDefault": {
-                    "TimeDestructionOutside": 300,
+                    "TimeDestructionOutside": 60,
                     "TimeDestructionInside": 10,
-                    "TimeDestructionCodeLock": 300
+                    "TimeDestructionCodeLock": 60
                 }
             }
         },
@@ -2060,104 +2060,104 @@
                     {
                         "TypeItem": "Hatchet",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "FirefighterAxe",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "FirefighterAxe_Black",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "FirefighterAxe_Green",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "Hacksaw",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "HandSaw",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "Chainsaw",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "Crowbar",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "SledgeHammer",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "Iceaxe",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "Pickaxe",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     },
                     {
                         "TypeItem": "WoodAxe",
                         "TimeCFG": {
-                            "TimeDestructionOutside": 300,
+                            "TimeDestructionOutside": 60,
                             "TimeDestructionInside": 10,
-                            "TimeDestructionCodeLock": 300
+                            "TimeDestructionCodeLock": 60
                         }
                     }
                 ],
                 "AllItemsCFGDefault": {
-                    "TimeDestructionOutside": 300,
+                    "TimeDestructionOutside": 60,
                     "TimeDestructionInside": 10,
-                    "TimeDestructionCodeLock": 300
+                    "TimeDestructionCodeLock": 60
                 }
             }
         },
